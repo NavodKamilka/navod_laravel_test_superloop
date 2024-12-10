@@ -1,8 +1,8 @@
-#
-#
-#
-#
-#
+#xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 php artisan migrate
